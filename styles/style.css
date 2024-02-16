@@ -1,0 +1,50 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+#brandimg {
+  width: 80px;
+  height: 50px;
+}
+
+:root {
+  --bs-body-font-family: "Bebas Neue", sans-serif;
+}
+
+.navbar {
+  position: relative;
+  bottom: 600px;
+}
+
+.cardscon {
+  justify-content: center;
+  margin-bottom: 300px;
+  
+}
+
+#cardcontent {
+  
+  
+}
+
+#img2 {
+  height: 17rem;
+  object-fit: cover;
+}
+
+#img1 {
+  height: 17rem;
+  object-fit: cover;
+}
+
+#card2 {
+  height: 17rem;
+  width: 40rem;
+}
+
+#card1 {
+  height: 17rem;
+  width: 28rem;
+}
