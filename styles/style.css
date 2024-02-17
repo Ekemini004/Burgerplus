@@ -20,7 +20,7 @@
 
 .cardscon {
   justify-content: center;
-  margin-bottom: 300px;
+ 
 }
 
 #gyf {
@@ -64,6 +64,78 @@
 }
 
 
+#crc{
+  color: #6f5e4d;
+  font-family: "Roboto Condensed";
+  font-weight: 350;
+
+}
+
+
+#bib{
+  color: #6f5e4d;
+  font-family: "Roboto Condensed";
+  line-height: 0.8;
+  font-size: 2.3rem;
+
+}
+
+
+
+#menucrd1{
+
+  width: 17rem;
+
+
+}
+
+#menubtn{
+
+  background-color: #642F21;
+  border: 0;
+width: 4.5rem;
+
+}
+
+.menubtntxt{
+
+color: #F7BE27;
+font-weight: bolder;
+font-size: 25px;
+
+}
+
+.card-title{
+
+  font-family: "Bebas Neue";
+  font-size: 30px;
+  font-weight: 400;
+}
+
+.card-text{
+
+font-family: "Roboto Condensed";
+color: #757575;
+word-spacing: 1px;
+font-weight: 300;
+
+}
+
+.rating{
+
+  color: #F7BE27;
+
+}
+
+
+
+
+
+
+
+
+
+
 @media (max-width: 576px) {
   #chf {
     font-size: 1.5rem; /* Font size for mobile */
@@ -73,7 +145,11 @@
     background-color: #e3000e;
     width: 9rem;
   }
-
+  #bib{
+    
+    font-size: 1.5rem;
+  
+  }
 
 
 }
